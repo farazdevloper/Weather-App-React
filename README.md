@@ -83,7 +83,7 @@ weather-app/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/farazdevloper/weather-app.git
 
 2️⃣ Go to project folder
 cd weather-app
